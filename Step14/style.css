@@ -384,3 +384,7 @@ footer{
   transform: scale(0.65);
  }
 }
+
+.sub-footer{
+    margin-top: 0;
+}
